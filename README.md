@@ -1,3 +1,32 @@
+<div align="center">
+
+<svg width="100%" height="100%" style="position:absolute; z-index:-1;">
+  <rect
+    x="5"
+    y="5"
+    rx="20"
+    ry="20"
+    width="98%"
+    height="98%"
+    fill="none"
+    stroke="#00BFFF"
+    stroke-width="3"
+    stroke-dasharray="12 8">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="200"
+      dur="6s"
+      repeatCount="indefinite" />
+  </rect>
+</svg>
+
+<div style="
+  border-radius:20px;
+  padding:25px;
+  box-shadow: 0 0 25px rgba(0,191,255,0.35);
+">
+
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Atharv Patil</span></h1>
 <h3 align="center">🌟 Curious Learner | Full Stack Developer | C++ & Java Enthusiast | Database Explorer</h3>
 
@@ -97,7 +126,6 @@
 - 🧠 Participating in *coding challenges, contests, and hackathons* to grow as a developer.
 - 🎯 Focused on writing clean, readable, and efficient code.
 
-
 ---
 
 ### 💬 Connect With Me
@@ -114,3 +142,6 @@
 <p align="center">
   ✨ <em>“Write code. Break things. Learn fast. Build better.”</em> ✨
 </p>
+
+</div>
+</div>
